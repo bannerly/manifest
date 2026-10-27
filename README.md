@@ -16,8 +16,8 @@ tsrc sync
 
 | dest | リポジトリ | 内容 |
 |---|---|---|
-| `server` | [bannerly/server](https://github.com/bannerly/server) | Slotly 広告配信サーバー |
-| `sdk` | [bannerly/sdk](https://github.com/bannerly/sdk) | Slotly 用 Expo / React Native SDK（アクセス権が必要です） |
+| `server` | [bannerly/server](https://github.com/bannerly/server) | bannerly 広告配信サーバー |
+| `sdk` | [bannerly/sdk](https://github.com/bannerly/sdk) | bannerly 用 Expo / React Native SDK（アクセス権が必要です） |
 | `manifest` | [bannerly/manifest](https://github.com/bannerly/manifest) | このマニフェスト自体 |
 
 定義は `manifest.yml` にあります。リポジトリを追加・変更する場合はこのファイルを編集してください。
