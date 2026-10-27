@@ -1,0 +1,7 @@
+repos:
+  - dest: manifest
+    url: https://github.com/bannerly/manifest.git
+  - dest: server
+    url: https://github.com/bannerly/server.git
+  - dest: sdk
+    url: https://github.com/bannerly/sdk.git
